@@ -260,6 +260,7 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: rgba(15,131,198,0.1);
 }
 
 .projectafbeelding {
@@ -273,7 +274,7 @@ p {
 }
 
 .project:hover {
-    background-color: rgba(15,131,198,0.2);
+    background-color: rgba(15,131,198,0.3);
 } 
 
 /* Section 5 styles */
